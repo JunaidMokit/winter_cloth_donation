@@ -9,7 +9,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-10 text-center md:text-left">
 
         <div>
-          <h3 className="text-2xl font-bold mb-4">Winter Aid Bangladesh</h3>
+          <h3 className="text-2xl font-bold mb-4">Sunnah Winter Donation</h3>
           <p className="text-sm">
             Spreading warmth and kindness across the nation. Join us in making this winter better for those in need.
           </p>
@@ -18,7 +18,7 @@ function Footer() {
         <div>
           <h4 className="text-lg font-semibold mb-3">Contact Us</h4>
           <p className="flex items-center justify-center md:justify-start gap-2 text-sm">
-            <FaEnvelope /> winteraidbd@gmail.com
+            <FaEnvelope /> Sunnah@gmail.com
           </p>
           <p className="flex items-center justify-center md:justify-start gap-2 text-sm mt-2">
             <FaPhone /> +880 1234-567890
@@ -43,7 +43,7 @@ function Footer() {
       </div>
 
       <div className="border-t border-blue-800 mt-10 pt-4 text-center text-sm text-gray-300">
-        © {new Date().getFullYear()} Winter Aid Bangladesh. All rights reserved.
+        © {new Date().getFullYear()}Sunnah Winter Donation. All rights reserved.
       </div>
     </footer>
       
