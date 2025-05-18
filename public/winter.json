@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Jackets for Families",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "A few jackets for adults and children in good condition.",
+    "status": "Available",
+    "contactInfo": "01711112222",
+    "division": "Dhaka",
+    "items": [
+      { "quantity": 250, "type": "jacket" },
+      { "quantity": 230, "type": "sweater" }
+    ],
+    "pickupLocation": "House 10, Road 3, Dhanmondi, Dhaka",
+    "additionalNotes": "Pick up before 6 PM."
+  },
+  {
+    "id": 2,
+    "title": "Blankets for Rural Areas",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "Woolen jackets and sweaters suitable for rural communities.",
+    "status": "Available",
+    "contactInfo": "01833334444",
+    "division": "Rajshahi",
+    "items": [
+      { "quantity": 210, "type": "jacket" },
+      { "quantity": 220, "type": "sweater" }
+    ],
+    "pickupLocation": "House 22, Ward 4, Rajpara, Rajshahi",
+    "additionalNotes": ""
+  },
+  {
+    "id": 3,
+    "title": "Kids’ Winter Clothes",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "Winter jackets and sweaters for children aged 4-10.",
+    "status": "Available",
+    "contactInfo": "01655556666",
+    "division": "Chattogram",
+    "items": [
+      { "quantity": 240, "type": "jacket" },
+      { "quantity": 260, "type": "sweater" }
+    ],
+    "pickupLocation": "Lane 7, Agrabad, Chattogram",
+    "additionalNotes": "Clothes are washed and clean."
+  },
+  {
+    "id": 4,
+    "title": "Woolen Wear Set",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "Knitted jackets and sweaters in various sizes.",
+    "status": "Available",
+    "contactInfo": "01977778888",
+    "division": "Sylhet",
+    "items": [
+      { "quantity": 220, "type": "jacket" },
+      { "quantity": 225, "type": "sweater" }
+    ],
+    "pickupLocation": "House 5, Zindabazar, Sylhet",
+    "additionalNotes": ""
+  },
+  {
+    "id": 5,
+    "title": "Men’s Warm Clothes",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "Used but good quality sweaters and jackets for men.",
+    "status": "Available",
+    "contactInfo": "01799990000",
+    "division": "Khulna",
+    "items": [
+      { "quantity": 270, "type": "jacket" },
+      { "quantity": 290, "type": "sweater" }
+    ],
+    "pickupLocation": "Flat 4B, Sonadanga, Khulna",
+    "additionalNotes": "Pickup on weekends preferred."
+  },
+  {
+    "id": 6,
+    "title": "Mixed Winter Supplies",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "A combination of sweaters and jackets.",
+    "status": "Available",
+    "contactInfo": "01522223333",
+    "division": "Barishal",
+    "items": [
+      { "quantity": 260, "type": "jacket" },
+      { "quantity": 250, "type": "sweater" }
+    ],
+    "pickupLocation": "Ward 6, Nabagram, Barishal",
+    "additionalNotes": "Call before arrival."
+  },
+  {
+    "id": 7,
+    "title": "Ladies’ Winter Set",
+    "image": "https://i.ibb.co/8337Sy6/winter1.jpg",
+    "description": "Winter jackets and sweaters for women.",
+    "status": "Available",
+    "contactInfo": "01444445555",
+    "division": "Mymensingh",
+    "items": [
+      { "quantity": 210, "type": "jacket" },
+      { "quantity": 245, "type": "sweater" }
+    ],
+    "pickupLocation": "House 9, College Road, Mymensingh",
+    "additionalNotes": "Items packed in a box."
+  }
+]
