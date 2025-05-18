@@ -17,6 +17,7 @@ import PrivateRoute from "./Components/Authentication/PrivateRoute.jsx";
 import Dashboard from "./Components/Dashboard/Dashboard.jsx";
 import Forget from "./Components/Authentication/Forget.jsx";
 import UpdateProfile from "./Components/Dashboard/UpdateProfile.jsx";
+import ErrorPage from "./Components/ErrorPage.jsx";
 
 
 
@@ -59,6 +60,10 @@ const router = createBrowserRouter([
       {
         path:'update',
         element:<UpdateProfile></UpdateProfile>
+      },
+      {
+         path:"*",
+          element:<ErrorPage></ErrorPage>,
       }
       
     ]
